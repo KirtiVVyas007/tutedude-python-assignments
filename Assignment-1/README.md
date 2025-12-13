@@ -7,10 +7,14 @@ This program takes two numbers from the user and performs addition,
 subtraction, multiplication, and division. The results are displayed
 on the screen.
 
+### Output
+![Task 1 Output](output_task1.png)
+
 ## Task 2: Name Greeting Program
 
 ### Functionality
 This program takes the user's first name and last name, combines them,
 and prints a welcome message.
 
-
+### Output
+![Task 2 Output](output_task2.png)
