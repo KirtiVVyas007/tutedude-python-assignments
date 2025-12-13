@@ -8,7 +8,7 @@ subtraction, multiplication, and division. The results are displayed
 on the screen.
 
 ### Output
-![Task 1 Output](output_task1.png)
+![Task 1 Output](output task1.png)
 
 ## Task 2: Name Greeting Program
 
@@ -17,4 +17,4 @@ This program takes the user's first name and last name, combines them,
 and prints a welcome message.
 
 ### Output
-![Task 2 Output](output_task2.png)
+![Task 2 Output](output task2.png)
