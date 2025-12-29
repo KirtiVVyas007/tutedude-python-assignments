@@ -4,9 +4,13 @@ In this program, a dictionary is created where the student names are used as key
 The user is asked to enter a student’s name.
 If the entered name is present in the dictionary, the program displays the marks of that student.
 If the name is not found, the program prints an appropriate message indicating that the student does not exist.
+### Output
+![Task 2 Output](output_task1.PNG)
 
 #Task 2: Demonstrate List Slicing
-#Functionality
+##Functionality
 In this program, a list of numbers from 1 to 10 is created.
 The first five elements of the list are extracted using list slicing.
 These extracted elements are then reversed, and both the extracted list and the reversed list are displayed.
+### Output
+![Task 2 Output](output_task2.PNG)
